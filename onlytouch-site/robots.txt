@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://onlytouch-egypt.netlify.app/sitemap.xml
+Sitemap: https://onlytouch-site.onlytouch224.workers.dev/sitemap.xml
